@@ -36,7 +36,7 @@ void print_poly(Polynomial p, char str[])
 	int i;
 	Polynomial p;
 	if (a.degree > b.degree)
-	{
+	{aslkdjaslkdj
 		p = a;
 		for (i = 0; i <= b.degree; i++)
 			p.coef[i + (p.degree - b.degree)] += b.coef[i];
